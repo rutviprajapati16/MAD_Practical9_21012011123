@@ -21,7 +21,9 @@ You can make your app display edge-to-edge—using the entire width and height o
 
 **Output:**
 **Animation:**
+
 <img src="https://github.com/rutviprajapati16/MAD_Practical9_21012011123/assets/97946004/9646bf9b-cffe-4705-9d2d-094f65e43b30" height="500" width="300">
+
 
 <img src="https://github.com/rutviprajapati16/MAD_Practical9_21012011123/assets/97946004/13129ff4-db9e-4041-8697-adde3ea265d0" height="500" width="300">
 
