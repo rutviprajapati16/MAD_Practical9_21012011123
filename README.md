@@ -6,7 +6,9 @@ What is Frame by Frame Animation? What is Twin Animation? How can you achieve ed
 
 **Ans:**
 Frame-by-frame animation changes the contents of the Stage in every frame. It is best suited to complex animation in which an image changes in every frame instead of simply moving across the Stage.
+
 Animation has always been about the illusion of movement. Tweening is a major part of making that illusion look real. Tweening in animation is a short for inbetweening.
+
 You can make your app display edge-to-edge—using the entire width and height of the display—by drawing behind the system bars. The system bars are the status bar and the navigation bar.
 
 1.Create MainActivity according to below UI design.
@@ -15,4 +17,22 @@ You can make your app display edge-to-edge—using the entire width and height o
 
 3.Create gradient Rectangle by using <gradient> tag in <shape> tag for background of SplashActivity. Use radial rectangle with x = 0.9, y =0.9, radius = 1500. Start Color pink and End Color blue. shape should be rectangle
 
-4.Add these all in project: <animation-list>, oneShot attribute, <set> tag, android:startOffset = 100, android:duration=1000, <scale> tag, <translate> tag, <rotate> tag, <alpha> tag
+4.Add these all in project: <animation-list>, oneShot attribute, <set> tag, android:startOffset = 100, android:duration=1000, <scale> tag, <translate> tag, <rotate> tag, <alpha> tag.
+
+**Output:**
+
+**Light Theme:**
+
+<img src="https://github.com/rutviprajapati16/MAD_Practical9_21012011123/assets/97946004/048ee6a1-f953-466b-86b3-8d3877e42471" height="400" width="250">
+
+<img src="https://github.com/rutviprajapati16/MAD_Practical9_21012011123/assets/97946004/b967ea3b-f75e-4bdb-8208-b9cd34434e56" height="400" width="250">
+
+**Dark Theme:**
+
+<img src="https://github.com/rutviprajapati16/MAD_Practical9_21012011123/assets/97946004/26d5dd0c-9d63-49a6-87d6-a8fa387cd139" height="400" width="250">
+
+<img src="https://github.com/rutviprajapati16/MAD_Practical9_21012011123/assets/97946004/a027af5c-0986-4506-a0a3-3544e70ae1b4" height="400" width="250">
+
+
+
+
