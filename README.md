@@ -23,7 +23,7 @@ You can make your app display edge-to-edge—using the entire width and height o
 
 **Light Theme:**
 
-<img src="https://github.com/rutviprajapati16/MAD_Practical9_21012011123/assets/97946004/048ee6a1-f953-466b-86b3-8d3877e42471" height="400" width="250">
+<img src="https://github.com/rutviprajapati16/MAD_Practical9_21012011123/assets/97946004/048ee6a1-f953-466b-86b3-8d3877e42471" height="500" width="300">
 
 <img src="https://github.com/rutviprajapati16/MAD_Practical9_21012011123/assets/97946004/b967ea3b-f75e-4bdb-8208-b9cd34434e56" height="400" width="250">
 
