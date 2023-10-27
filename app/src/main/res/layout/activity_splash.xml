@@ -9,7 +9,13 @@
     tools:context=".Splash_Activity">
 
     <ImageView
+        android:id="@+id/uvpce_logo"
         android:layout_width="match_parent"
+        android:src="@drawable/uvpce_logo"
         android:layout_height="200dp"
-        android:id="@+id/uvpce_logo"/>
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginStart="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
